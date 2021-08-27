@@ -25,6 +25,6 @@ public class bai_4 {
         delta = (b * b) - (4 * a * c);
         System.out.print("\ndelta = " + delta);
         System.out.print("\ncăn bậc 2 delta = " + Math.sqrt(delta));
-        System.out.print("source:");
+        System.out.print("source:lam");
     }
 }
