@@ -23,6 +23,7 @@ public class bai_5 {
         System.out.print("\nđơn giá: ");
         dg = in.nextFloat();
         
+        System.out.print("source:lam");
         System.out.print("\nsố lượng: ");
         sl = in.nextInt();
         
