@@ -34,5 +34,6 @@ public class bai_2 {
         System.out.print("\n tich " + tich);
         System.out.print("\n thuong " + thuong);
         System.out.print("\n du " + du);
+        System.out.print("source:lâm");
     }
 }
