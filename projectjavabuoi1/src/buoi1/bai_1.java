@@ -31,5 +31,6 @@ public class bai_1 {
         System.out.print("\n tuổi: " + tuoi);
         System.out.print("\n năm sinh: " + namsinh);
         System.out.print("\n iểm trung bình: " + tb);
+        System.out.print("source:lâm")
     }
 }
