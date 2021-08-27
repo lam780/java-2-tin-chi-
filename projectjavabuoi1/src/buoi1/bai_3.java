@@ -29,7 +29,7 @@ public class bai_3 {
         System.out.print("\n chuvi " + chuvi);
         System.out.print("\n dien tich " + dientich);
         System.out.print("\n canh nho " + canhnhonhat);
-        
+        System.out.print("source:lâm");
         
     }
 }
